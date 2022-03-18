@@ -5,6 +5,7 @@ Code and data from Coub.com archival campaign 15.03.2022-01.04.2022
 ## Dependencies
 
 Install typer 'pip install typer'
+
 Install APIBackuper 'pip install apibackuper'
 
 ## Structure
